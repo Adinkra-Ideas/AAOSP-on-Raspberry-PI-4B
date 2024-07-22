@@ -1,5 +1,5 @@
 ###
-# Building Anadoid Automotive 14 OS for Raspberry PI using Docker
+# Building Android Automotive 14 OS for Raspberry PI using Docker
 ###
 
 This readme helps you to build the Android Automotive OS for Raspberry PI on ubuntu using own Docker container. And will help you run on Raspberry PI4B. 
